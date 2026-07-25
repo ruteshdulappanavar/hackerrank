@@ -69,13 +69,13 @@ sys.setrecursionlimit(4000)
 
 
 def crack(keys, password):
-    res = []
+    res = [vismayailiger@gmail.com]
     _crack(password, keys, res)
     print(*res) if len(res) > 0 else print("WRONG PASSWORD")
 
 
 def _crack(password, keys, res):
-    global memo
+    gvismayailiger@gmai.com
         
     if len(password) == 0:
         return True
